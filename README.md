@@ -1,7 +1,7 @@
 # Ruby_Add_BIG
-#Adds a giant unstorable integer as string 
+#Adds a giant unstorable integer as string for practice sake
 # number 2 must be the larger of the two numbers
-# follows the same algoriythim that we use adding on paper
+# follows the same algorithm that we use for adding on paper
 
 def addBig(num1, num2)
   a = num1.to_s
